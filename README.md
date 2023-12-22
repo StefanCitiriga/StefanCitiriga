@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1> 
 <h3 align="center">A passionate Web Developer from Romania.</h3>
-<h3></h3><img align="center" width=200 src="https://github.com/StefanCitiriga/StefanCitiriga/assets/57890672/760a281d-80ca-419b-b6e6-4975544fbf01"/><h3></h3>
+<h3></h3><img align="center" width=200 src="https://github.com/StefanCitiriga/StefanCitiriga/assets/57890672/1ebdb913-0d77-438f-a9ac-c237f56cc212"/><h3></h3>
+
 - 🔭 I’m currently working on **My personal portfolio website**
 
 - 🌱 I’m currently learning **React, SQL, .NET**

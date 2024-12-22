@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **My personal portfolio website**
 
-- 🌱 I’m currently learning **React, SQL, .NET**
+- 🌱 I’m currently learning **Android (Kotlin)**
 
 - 👨‍💻 All of my projects are available at [*work in progress*](*work in progress*)
 
